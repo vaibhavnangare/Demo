@@ -1,0 +1,45 @@
+create an account on github
+
+search some git commands
+
+git commands 
+
+Create git folder in c drive
+start Git Bash
+
+
+1. cd /c 
+for change directory
+
+2. ls
+its show git folder in c drive
+
+3. cd git
+into git folder
+
+4. git config --global user.name "your name"
+enter your github account name
+
+5. git config --global user.email youremailid@google.com
+enter your github account email id
+
+6. git clone https://github.com/your name/repositories
+github url with your name and repositories 
+
+7. ls
+you can check file folder
+
+create any file in git folder then directly upload into github
+
+8. git add filename.txt(any file format)
+
+9. git status
+its show bramch master information
+
+10. git commit -m "first commit" filename.txt
+
+11. git push -u origin master
+file is uploaded to https://github.com/your name/repositories
+
+Thank you
+
